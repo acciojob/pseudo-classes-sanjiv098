@@ -10,7 +10,7 @@ div:last-child{
 	color:red;
 }
 div:nth-child(){
-	color:standard;
+	color:rgb(0, 0, 0);
 }
 li{
 	background:gray;
